@@ -1,7 +1,7 @@
 # construction3x39
 
 # __
-# 3x39  (by [@kj3x39](https://github.com/kj3x39)
+# 3x39  (by [@kj3x39](https://github.com/kj3x39))
 ## Description
 As monopoly companies control the flow of information and advertising of internet media, products, services, and social connection recommendations, more important than ever is the need for an open computational data market built off truth and trust. Connection presupposes identity, a net of presences: in 2025 most names are claimed across namespaces including social media platforms and domain providers themselves. There is ambiguity in a consistent naming protocol that allows a bridge between a new unexplored digital realm and the existing incumbents where the world and our family and friends remain.
 ## Problem
